@@ -1,109 +1,88 @@
-📊 Vendor Performance Analytics Dashboard
+👨🏻‍💻 Vendor Performance Data Analyst Portfolio Project
 
-📌 Overview
+This project showcases a complete end-to-end data analytics workflow, designed to replicate real industry practices used by data analysts in supply chain, procurement, and operations teams. It demonstrates how raw vendor data can be transformed into meaningful insights that drive business decisions.
 
-This project analyzes vendor performance to help businesses improve supply chain efficiency, reduce delays, and make data-driven procurement decisions.
-It uses Python for EDA + Data Analysis, Power BI for visualization, and is fully documented for recruiters and stakeholders.
+📌 Project Overview
 
-📁 Project Workflow
+The objective of this project is to analyze vendor performance using real-world analytical steps. The project covers:
 
-Below is the visual workflow used in this project:
+✅ Data Preparation & Exploratory Data Analysis (Python):
+Clean, preprocess, and explore vendor dataset to identify trends, missing values, and performance metrics.
 
+✅ Data Analysis with Python:
+Use Python to calculate key KPIs such as vendor lead time, delivery accuracy, product quality, defect rate, and reliability scores.
 
+✅ Visualization & Insights (Power BI):
+Build an interactive dashboard to help stakeholders easily track vendor performance, compare suppliers, and identify improvement opportunities.
 
-![Project Workflow](assets/workflow.png)
+✅ Report & Presentation:
+Summarize insights, share recommendations, and present findings using a concise report and presentation deck.
 
+📂 Project Workflow
 
-This diagram outlines the major steps in the project:
+🛠 How to Use This Project
+1. Clone the repository
+git clone https://github.com/fortrock/Vendor-Performance-Analysis-Python-PowerBI
 
-01 — Business Problem Statement
+2. Open vendor_performance_analysis.ipynb
 
-Understand the real-world supply chain challenges and vendor performance issues.
+This notebook includes:
 
-02 — Data Modelling & EDA in Python
+Data Import
 
-Import and explore the dataset
+Data Cleaning & Preprocessing
 
-Clean, transform, and engineer essential features
+Feature Engineering
 
-Identify outliers, missing values, and early trends
+Calculating Vendor KPIs
 
-03 — Data Analysis with Python 
+Generating CSV output for Power BI
 
-Use Pandas/Numpy for aggregations
+3. Run the Python Notebook to Prepare Data
 
-Create performance metrics like:
+Load the vendor dataset
 
-On-Time Delivery %
+Compute performance metrics
 
-Defect Rate
+Export cleaned data files for visualization
 
-Lead Time Variance
+4. Open the Power BI Dashboard
 
-Fill Rate
+File: vendor_performance.pbix
 
-Segment vendors by category, performance, and trends
+Explore:
 
-04 — Interactive Dashboard using Power BI
+Vendor delivery trends
 
-Connect Python-processed dataset to Power BI
+Quality & defect analysis
 
-Build visual insights, rankings, KPI cards, and trend charts
+Cost patterns
 
-05 — Project Report
+Vendor ranking dashboard
 
-Summarize metrics, patterns, and recommendations
+5. Create Report & Presentation
 
-Provide business insights and improvement actions
+Build a structured project report
 
-06 — Presentation using Gamma AI
+Design a stakeholder-friendly presentation deck
 
-Convert findings into a clean, business-friendly presentation
+Highlight actionable insights and recommendations
 
-Use storytelling + visuals to explain insights
+👨‍💻 About the Author
 
-07 — GitHub Repository
+Hey, I’m Sreekumar K, a Data Analyst who loves simplifying complex data concepts and building practical portfolio projects.
 
-Upload all project assets
+🚀 Stay Connected & Join my Data Community
 
-Make portfolio-ready documentation
+I share actionable content on SQL, Python, Power BI, and data analytics projects.
 
-📂 Repository Structure
-📁 Vendor-Performance-Analytics
-│
-├── 📄 business_problem.pdf
-├── 📄 README.md
-├── 📊 vendor_dashboard.pbix
-├── 📁 data/
-│   └── cleaned_vendor_data.csv
-├── 📁 python/
-│   └── eda_analysis.ipynb
-├── 📁 assets/
-│   └── workflow.png
-└── 📁 reports/
-    └── project_report.pdf
+💼 LinkedIn: Sreekumar K
 
-🚀 Tech Stack
+Let’s connect and grow your data career together!
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+💡 Thanks for checking out this project!
 
-Power BI (Dashboard Creation)
+Your support means a lot.
+If this repo helped you, feel free to star ⭐️, fork it, or share it with another aspiring data analyst.
 
-Jupyter Notebook
-
-GitHub
-
-Gamma AI (Presentation)
-
-📈 Key Features
-
-✔ Real-world supply chain business problem
-✔ Complete analytics workflow from raw data → insights
-✔ Python-driven EDA and KPI calculation
-✔ Professional Power BI dashboard
-✔ Recruiter-friendly documentation
-✔ Clean project structure for portfolio use
-
-🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome!
+🚀 Keep learning. Keep building. Keep growing.
