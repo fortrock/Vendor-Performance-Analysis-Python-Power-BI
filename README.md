@@ -20,65 +20,63 @@ Summarize insights, share recommendations, and present findings using a concise 
 
 # 🛠 How to Use This Project
 1. **Clone the repository**
-git clone https://github.com/fortrock/Vendor-Performance-Analysis-Python-Power-BI
+     git clone https://github.com/fortrock/Vendor-Performance-Analysis-Python-Power-BI
 
 2. **Open Exploratory Data Analysis.ipynb**
 
-This notebook includes:
+     This notebook includes:
 
-Data Import
+     Data Import
 
-Data Cleaning & Preprocessing
+     Data Cleaning & Preprocessing
 
-Feature Engineering
+     Feature Engineering
 
-Calculating Vendor KPIs
+     Calculating Vendor KPIs
 
-Generating CSV output for Power BI
+     Generating CSV output for Power BI
 
 3. **Run the Python Notebook to Prepare Data**
 
-Load the vendor dataset
+     Load the vendor dataset
 
-Compute performance metrics
+     Compute performance metrics
 
-Export cleaned data files for visualization
+     Export cleaned data files for visualization
 
 4. **Open the Power BI Dashboard***
 
-File: vendor_performance.pbix
+     File: vendor_performance.pbix
 
-Explore:
+     Explore:
 
-Vendor delivery trends
+     Vendor delivery trends
 
-Quality & defect analysis
+     Quality & defect analysis
 
-Cost patterns
+     Cost patterns
 
-Vendor ranking dashboard
+     Vendor ranking dashboard
 
 5. **Create Report & Presentation**
 
-Build a structured project report
+     Build a structured project report
 
-Design a stakeholder-friendly presentation deck
+     Design a stakeholder-friendly presentation deck
 
-Highlight actionable insights and recommendations
+     Highlight actionable insights and recommendations
 
 # 👨‍💻 About the Author
 
 Hey, I’m Sreekumar K, A Data Analyst who loves simplifying complex data concepts and building practical portfolio projects.
 
-🚀 Stay Connected & Join my Data Community
-
 I share actionable content on SQL, Python, Power BI, and data analytics projects.
 
-💼 LinkedIn: Sreekumar K
+💼 LinkedIn: www.linkedin.com/in/sreekumar007
 
 Let’s connect and grow your data career together!
 
-# 💡 Thanks for checking out this project!
+ 💡**Thanks for checking out this project!**
 
 Your support means a lot.
 If this repo helped you, feel free to star ⭐️, fork it, or share it with another aspiring data analyst.
