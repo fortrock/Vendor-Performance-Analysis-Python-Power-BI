@@ -44,7 +44,7 @@ Summarize insights, share recommendations, and present findings using a concise 
 
      Export cleaned data files for visualization
 
-4. **Open the Power BI Dashboard***
+4. **Open the Power BI Dashboard**
 
      File: vendor_performance.pbix
 
