@@ -1,8 +1,8 @@
-👨🏻‍💻 Vendor Performance Data Analyst Portfolio Project
+#👨🏻‍💻 Vendor Performance Data Analyst Portfolio Project
 
 This project showcases a complete end-to-end data analytics workflow, designed to replicate real industry practices used by data analysts in supply chain, procurement, and operations teams. It demonstrates how raw vendor data can be transformed into meaningful insights that drive business decisions.
 
-📌 Project Overview
+#📌 Project Overview
 
 The objective of this project is to analyze vendor performance using real-world analytical steps. The project covers:
 
@@ -18,11 +18,9 @@ Build an interactive dashboard to help stakeholders easily track vendor performa
 ✅ Report & Presentation:
 Summarize insights, share recommendations, and present findings using a concise report and presentation deck.
 
-📂 Project Workflow
-
-🛠 How to Use This Project
+##🛠 How to Use This Project
 1. Clone the repository
-git clone https://github.com/fortrock/Vendor-Performance-Analysis-Python-PowerBI
+git clone https://github.com/fortrock/Vendor-Performance-Analysis-Python-Power-BI/tree/main
 
 2. Open vendor_performance_analysis.ipynb
 
@@ -68,7 +66,7 @@ Design a stakeholder-friendly presentation deck
 
 Highlight actionable insights and recommendations
 
-👨‍💻 About the Author
+##👨‍💻 About the Author
 
 Hey, I’m Sreekumar K, a Data Analyst who loves simplifying complex data concepts and building practical portfolio projects.
 
