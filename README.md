@@ -1,4 +1,4 @@
-# Vendor Performance Data Analyst Portfolio Project</u>
+# Vendor Performance Data Analysis</u>
 
 This project showcases a complete end-to-end data analytics workflow, designed to replicate real industry practices used by data analysts in supply chain, procurement, and operations teams. It demonstrates how raw vendor data can be transformed into meaningful insights that drive business decisions.
 
